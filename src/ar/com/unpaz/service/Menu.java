@@ -29,7 +29,7 @@ public class Menu extends JFrame implements ActionListener {
         // Agregar el panel al marco principal
         getContentPane().add(panel);
         
-     // Centrar la ventana en la pantalla
+        // Centrar la ventana en la pantalla
         setLocationRelativeTo(null);
 
         // Establecer el tamaño del marco y mostrarlo en la pantalla
